@@ -48,7 +48,7 @@ Tio is pulling ahead!
 
 ---
 
-## 🌈 Track Theme Symbols
+## ❄ Track Theme Symbols
 
 | Theme   | Track Symbol |
 | ------- | ------------ |
