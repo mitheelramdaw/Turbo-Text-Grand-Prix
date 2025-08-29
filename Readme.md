@@ -140,7 +140,7 @@ Also includes hazard/powerup shoutouts like:
 
 ## 📂 Files
 
-* `racetrack.cpp` → Main source code.
+* `submission.cpp` → Main source code.
 * `README.md` → This file.
 
 > No external dependencies. Just standard C++.
