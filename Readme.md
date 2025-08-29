@@ -1,6 +1,6 @@
 
-# 🏁 C++ Race Rampage
-🏆 Mini-Hackathon Week 1: Turbo Text Grand Prix 🏁
+# 🏁 C++ Race Rampage : 🏆 Mini-Hackathon Week 1: Turbo Text Grand Prix 🏁
+
 
 A wild, chaotic, and entertaining racing simulator in the terminal. Two racers. A track. Hazards. Power-ups. Random events. All wrapped in classic ASCII flair and streetwise commentary.
 
